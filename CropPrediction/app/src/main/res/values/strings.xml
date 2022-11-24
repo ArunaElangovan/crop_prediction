@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CropPrediction</string>
+    <string name="predict">Predict</string>
+</resources>
